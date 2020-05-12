@@ -1,6 +1,6 @@
 # Building Sentiment Analysis Model and prediction of Covid-19 Tweets
 
-The aim of this project was to build a twitter sentiment model using `Sentiment140` data set and predict the sentiment of tweets. The model was applied in predicting specifically Covid 19 tweets, and results compared to prebuilt SentimentIntensityAnalyzer model which appears to have wrongly classified the sentiment of some Covid 19 tweets. The model classifies only English tweets.
+The project aims at building a sentiment analysis model using `Sentiment140` data set and predict the sentiment of tweets. The model was applied in predicting specifically Covid 19 tweets, and results compared to prebuilt SentimentIntensityAnalyzer model which appears to have wrongly classified the sentiment of some Covid 19 tweets. The model classifies only English tweets.
 
 Some methods used include:
 
